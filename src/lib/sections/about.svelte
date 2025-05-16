@@ -67,7 +67,7 @@
 			</div>
 		</div>
 		<div class="profile-image" use:addSlickScrollOffset>
-			{#await loadImage("assets/imgs/profile-photo.jpg") then src}
+			{#await loadImage("assets/imgs/profile-photo.png") then src}
 				<img src="{src}" in:maskSlideIn={{ duration: 1200,
 					delay: 100,
 					reverse: true,
