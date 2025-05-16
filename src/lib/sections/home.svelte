@@ -87,9 +87,6 @@
 <div id="content-container" style="padding-top: 23vh" bind:this={homeContainerElement}>
 	<div class="content-wrapper">
 		<div class="flex">
-			<div class="flex-wrapper first">
-
-			</div>
 			
 			<div class="flex-wrapper second">
 				<h1 class = "title">
@@ -100,6 +97,7 @@
 						<div class="word" bind:this={titleWord2Element}>MATES</div>
 					</div>
 				</h1>
+
 				<div class="occupation mask">
 					<p class = "paragraph" bind:this={shortDetailsElement}>
 						Tout commence ici ...
@@ -138,7 +136,7 @@
 #content-container
 	height: 100vh
 	width: 100vw
-	padding: 12vh 7vw
+	padding: 12vh 4vw
 	box-sizing: border-box
 	position: relative
 
@@ -150,11 +148,11 @@
 
 	.flex
 		z-index: 2
-		width: 95%
+		width: 100%
 		height: 100%
 		display: flex
 		flex-direction: row
-		justify-content: space-between
+		justify-content: center
 		position: relative
 		box-sizing: border-box
 
@@ -234,7 +232,7 @@
 
 		@media only screen and (max-width: 750px)
 			&
-				opacity: 0.3
+				opacity: 0.7
 
 		img
 			height: 100%

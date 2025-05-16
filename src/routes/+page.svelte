@@ -22,7 +22,7 @@
 		scrollContainer.style.overflowY = "hidden";
 		scrollContainer.scrollTo(0, 0);
 		
-		dataState.workData = await fetchJsonData("/data/work-data.json"); // Wait for work data to load
+		dataState.workData = await fetchJsonData("/data/partners-data.json"); // Wait for work data to load
 		dataState.siteData = await fetchJsonData("/data/data.json"); // Wait for work data to load
 
 		await Promise.allSettled($imgPromises); // Wait for images to load

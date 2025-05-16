@@ -1,0 +1,137 @@
+[
+    {
+        "id": "visa-premier",
+        "title": "VISA PREMIER",
+        "details": {
+            "description": "Visa Premier est une carte premium Visa émise par les banques françaises pour leurs clients. La carte Visa Premier offre une large gamme d'avantages pour la vie quotidienne et les voyages, avec des offres spéciales et des services pour vivre vos passions. En tant que partenaire majeur de Gentle Mates, Visa soutient la communauté esport.",
+            "summary": "Partenaire Majeur"
+        },
+        "links": [
+            {
+                "type": "web",
+                "text": "Visiter le site de Visa Premier",
+                "link": "https://www.visa.fr/payer-avec-visa/ma-carte-visa/visa-premier.html"
+            }
+        ]
+    },
+    {
+        "id": "tcl",
+        "title": "TCL",
+        "details": {
+            "description": "TCL est une marque leader d'électronique grand public. En tant que deuxième fabricant mondial de téléviseurs, TCL (The Creative Life) se targue d'offrir des produits de qualité alliant design élégant et technologie avancée, notamment avec ses spécifications gaming comme le 144Hz natif et l'accélérateur de jeu 240Hz.",
+            "summary": "Partenaire Secondaire"
+        },
+        "links": [
+            {
+                "type": "web",
+                "text": "Visiter le site de TCL",
+                "link": "https://www.tcl.com/fr/fr"
+            }
+        ]
+    },
+    {
+        "id": "hellowork",
+        "title": "Hellowork",
+        "details": {
+            "description": "Hellowork est le leader français du numérique dans l'emploi et le recrutement, créé en 2000. En s'associant à Gentle Mates, Hellowork permet aux 18-35 ans de rencontrer leur avenir, avec plus de 7 000 personnes trouvant un emploi chaque jour grâce à leurs services complets et transparents.",
+            "summary": "Partenaire Secondaire"
+        },
+        "links": [
+            {
+                "type": "web",
+                "text": "Visiter le site de Hellowork",
+                "link": "https://www.hellowork.com/fr-fr/"
+            }
+        ]
+    },
+    {
+        "id": "aldi",
+        "title": "ALDI",
+        "details": {
+            "description": "ALDI est présent en France depuis 1988 et est un partenaire engagé de l'esport français depuis début 2021. Les 1 324 magasins actuels sont gérés par 13 sociétés régionales employant près de 16 000 collaborateurs, dont 90% en CDI, offrant la meilleure qualité au meilleur prix.",
+            "summary": "Partenaire Secondaire"
+        },
+        "links": [
+            {
+                "type": "web",
+                "text": "Visiter le site d'ALDI",
+                "link": "http://aldi.fr/"
+            }
+        ]
+    },
+    {
+        "id": "lofi-girl",
+        "title": "Lofi Girl",
+        "details": {
+            "description": "Lancée sur YouTube en 2015, Lofi Girl s'est imposée comme une référence de la musique d'ambiance. Devenue une figure emblématique de la culture pop, elle rassemble aujourd'hui plus de 15 millions d'abonnés et la plus grande communauté musicale sur Discord, avec près d'un million de membres.",
+            "summary": "Partenaire Secondaire"
+        },
+        "links": [
+            {
+                "type": "web",
+                "text": "Visiter le site de Lofi Girl",
+                "link": "https://lofigirl.com/"
+            }
+        ]
+    },
+    {
+        "id": "volvic-juicy",
+        "title": "Volvic Juicy",
+        "details": {
+            "description": "Volvic Juicy offre le mélange parfait de rafraîchissement et de plaisir. Cette boisson unique combine notre eau minérale naturelle volcanique, issue des volcans d'Auvergne pour son goût pur et frais, avec des jus de fruits soigneusement sélectionnés, offrant une expérience revitalisante et savoureuse.",
+            "summary": "Partenaire Secondaire"
+        },
+        "links": [
+            {
+                "type": "web",
+                "text": "Visiter le site de Volvic Juicy",
+                "link": "https://www.volvic.fr/notre-partenaire/juicy-gentlemates.html"
+            }
+        ]
+    },
+    {
+        "id": "alpine",
+        "title": "Alpine",
+        "details": {
+            "description": "Fondée en 1955 par Jean Rédélé, Alpine s'est taillé un nom en tant que constructeur de voitures de sport françaises. En 2018, Alpine a dévoilé la nouvelle A110, une voiture de sport qui incarnait les principes intemporels de la marque : compacte, légère, agile et un plaisir à conduire.",
+            "summary": "Partenaire Secondaire"
+        },
+        "links": [
+            {
+                "type": "web",
+                "text": "Visiter le site d'Alpine",
+                "link": "https://bit.ly/3wjvGJI"
+            }
+        ]
+    },
+    {
+        "id": "team-razer",
+        "title": "Team Razer",
+        "details": {
+            "description": "RazerTM est la marque lifestyle leader pour les gamers. Le logo de marque à trois têtes de serpent de Razer est l'une des icônes les plus reconnues au sein de la communauté mondiale des joueurs, avec un écosystème complet de matériel, logiciels et services primés pour les gamers.",
+            "summary": "Partenaire Secondaire"
+        },
+        "links": [
+            {
+                "type": "web",
+                "text": "Visiter le site de Razer",
+                "link": "https://www.razer.com/fr-fr"
+            }
+        ]
+    },
+    {
+        "id": "scuf",
+        "title": "SCUF",
+        "details": {
+            "description": "SCUF a été fondé en 2011 et s'est depuis imposé comme une référence dans l'industrie du gaming, en développant des manettes qui permettent aux joueurs de maximiser leurs performances, révolutionnant les scènes compétitives de nombreux jeux et ligues esport.",
+            "summary": "Partenaire Secondaire"
+        },
+        "links": [
+            {
+                "type": "web",
+                "text": "Visiter le site de SCUF",
+                "link": "https://scufgaming.com/"
+            }
+        ]
+    }
+]

@@ -10,7 +10,7 @@ export type WorkData = {
         description: string,
         summary: string
     },
-    roles: string[],
+    image: string,
     links: {
         type: "web" | "android" | "ios" | undefined,
         text: string,
