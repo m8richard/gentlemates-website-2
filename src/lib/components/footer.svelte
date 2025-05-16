@@ -44,37 +44,9 @@
 <div class="footer-wrapper" bind:this={footerContainerElement}>
     <!-- Left side -->
     <div class="flex-wrapper">
-        <div class="logo-wrapper">
-            <div class="inline-flex" bind:this={logoElement}>
-                <img src="assets/imgs/logo.svg" alt="mh logo" class="logo">
-            </div>
-        </div>
-
-        <div class="status-wrapper">
-            {#if dataState.siteData}
-                {#if dataState.siteData!.availablity_date === ""}
-                    <p class="large-text" bind:this={statusElement}>
-                        i am currently accepting freelance work, <br>you may reach me on my email.
-                    </p>
-                {:else}
-                    <p class="large-text" bind:this={statusElement}>
-                        i am available for freelance work after <br> {dataState.siteData.availablity_date}.
-                    </p>
-                {/if}
-            {/if}
-            <a class="button large-text" bind:this={fullEmailLinkElement} href="mailto:musab@musabhassan.com" target="_blank">musab@musabhassan.com</a>
-        </div>
-        
+        <img src="assets/imgs/logo.svg" alt="mh logo" class="logo">
         <div class="credits-wrapper" bind:this={creditsElement}>
-            <p class="year">© {currentYear}</p>
-            <p class="credits">
-                designed and developed by Musab Hassan<br>
-                
-                <!-- Support the project by keeping this line in your fork -->
-                <a class="clickable button no-decor" href="https://github.com/Musab-Hassan/musabhassan.com" target="_blank">
-                    this website is open source on github
-                </a>
-            </p>
+            <p class="copyright">© {currentYear} Gentle Mates</p>
         </div>
     </div>
 
