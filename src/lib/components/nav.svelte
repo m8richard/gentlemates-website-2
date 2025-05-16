@@ -88,7 +88,7 @@
 								class="interactive clickable"
 								onclick={() => navigate(scrollAnchorState.work!)} 
 								in:mobileTransitionSwitcher={{ delay: 250 }}>
-								<p>Work</p>
+								<p>Rosters</p>
 							</button>
 						</li>
 						<li use:introAnimation={{ delay: 1200 }}>
@@ -96,7 +96,7 @@
 								class="interactive clickable"
 								onclick={() => navigate(scrollAnchorState.about!)} 
 								in:mobileTransitionSwitcher={{ delay: 300 }}>
-								About
+								Partners
 							</button>
 						</li>
 						<li class="mobile">
